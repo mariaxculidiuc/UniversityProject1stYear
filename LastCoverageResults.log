@@ -1,0 +1,21 @@
+[2023-05-16 12:44:43] [info] Start Program:
+Path:"C:\Users\culid\OneDrive\Desktop\facultate\2nd semester of 1st year\OOP\QtWidgetsApplication1\x64\Debug\QtWidgetsApplication1.exe"
+Arguments:
+Working directory: "C:\Users\culid\OneDrive\Desktop\facultate\2nd semester of 1st year\OOP\QtWidgetsApplication1\"
+Modules: Selected: C:\Users\culid\OneDrive\Desktop\facultate\2nd semester of 1st year\OOP\QtWidgetsApplication1\x64\Debug\QtWidgetsApplication1.exe Excluded: 
+Sources: Selected: C:\Users\culid\OneDrive\Desktop\facultate\2nd semester of 1st year\OOP\Lab 6-7, Culidiuc Maria\Lab 6-7, Culidiuc Maria C:\Users\culid\OneDrive\Desktop\facultate\2nd semester of 1st year\OOP\QtWidgetsApplication1 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\culid\AppData\Local\Temp\fr1m3fzn.bir 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2023-05-16 12:44:43] [info] Module: C:\Users\culid\OneDrive\Desktop\facultate\2nd semester of 1st year\OOP\QtWidgetsApplication1\x64\Debug\QtWidgetsApplication1.exe is selected because it matches selected pattern: C:\Users\culid\OneDrive\Desktop\facultate\2nd semester of 1st year\OOP\QtWidgetsApplication1\x64\Debug\QtWidgetsApplication1.exe
+[2023-05-16 12:44:50] [info] ----------------------------------------------------
+[2023-05-16 12:44:50] [info] Coverage binary generated in file: C:\Users\culid\AppData\Local\Temp\fr1m3fzn.bir
+[2023-05-16 12:44:50] [info] ----------------------------------------------------
